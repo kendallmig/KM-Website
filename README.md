@@ -1,8 +1,0 @@
-# Wildflowers and Machine Learning
-AlexNet is a deep learning neural network architecture that has been widely used for image classification tasks. Sorting pictures of wildflowers is one such task that can benefit from the use of AlexNet. The network can be trained on a large dataset of labeled wildflower images, learning to recognize various species and classify them accurately. With its many layers and convolutional filters, AlexNet can capture fine-grained details in the images, allowing it to differentiate between similar-looking flower species. This makes it an ideal tool for accurately and efficiently sorting large collections of wildflower pictures, which can be useful for research, educational, or recreational purposes.
-
-<img src = "https://th.bing.com/th/id/OIP.glCVuVvmemziXV5PDJigIQHaE8?w=302&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7">
-
-## Wildflowers in the U.S.
-The number of types of wildflowers in the U.S. is difficult to determine with certainty as it varies depending on how "wildflower" is defined and counted. However, it is estimated that there are over 17,000 species of vascular plants, which include wildflowers, in the United States. This number is constantly changing as new species are discovered and taxonomy is updated. The U.S. is home to a diverse range of habitats and ecosystems, from deserts and grasslands to forests and wetlands, each of which supports its own unique set of wildflowers. Therefore, the actual number of wildflower species in the U.S. is likely much higher than the estimated number of vascular plants.
-<img src = "https://th.bing.com/th/id/OIP.Cj9UrJ_KlGhxgE_7H127kwHaE8?w=281&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7">
