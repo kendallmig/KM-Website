@@ -1,32 +1,4 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Wildflowers and Machine Learning
+AlexNet is a deep learning neural network architecture that has been widely used for image classification tasks. Sorting pictures of wildflowers is one such task that can benefit from the use of AlexNet. The network can be trained on a large dataset of labeled wildflower images, learning to recognize various species and classify them accurately. With its many layers and convolutional filters, AlexNet can capture fine-grained details in the images, allowing it to differentiate between similar-looking flower species. This makes it an ideal tool for accurately and efficiently sorting large collections of wildflower pictures, which can be useful for research, educational, or recreational purposes.
+# Wildflowers in the U.S.
+The number of types of wildflowers in the U.S. is difficult to determine with certainty as it varies depending on how "wildflower" is defined and counted. However, it is estimated that there are over 17,000 species of vascular plants, which include wildflowers, in the United States. This number is constantly changing as new species are discovered and taxonomy is updated. The U.S. is home to a diverse range of habitats and ecosystems, from deserts and grasslands to forests and wetlands, each of which supports its own unique set of wildflowers. Therefore, the actual number of wildflower species in the U.S. is likely much higher than the estimated number of vascular plants.
