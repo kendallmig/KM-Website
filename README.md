@@ -17,5 +17,6 @@ It is difficult to estimate exactly how much trash is in the ocean, as a signifi
 
 Using AlexNet and machine learning algorithms to detect and separate trash and living animals in the ocean is a promising application of artificial intelligence for marine conservation. AlexNet, with its ability to accurately classify images and recognize fine-grained details, can be trained on a large dataset of underwater images to differentiate between various types of marine debris and living organisms. The machine learning algorithms can then be used to automatically detect and segment objects in the images, allowing for the identification and separation of trash and living animals. This can be a useful tool for researchers, conservationists, and government agencies, who can use the information to better understand the distribution and impact of marine debris on marine life, and to develop effective strategies for mitigating the problem. Furthermore, the use of AI technology for ocean conservation can help reduce the reliance on human labor, which can be time-consuming and costly, while also increasing the accuracy and speed of data processing.
 
-Want to know more?
-[Trash in our Oceans](https://docs.google.com/presentation/d/1XS1gkZQSxwYqoUmwtQliZiD8Y96zB-jgBteEKsYj2Mk/edit?usp=sharing)
+## Want to know more?
+
+### [Trash in our Oceans](https://docs.google.com/presentation/d/1XS1gkZQSxwYqoUmwtQliZiD8Y96zB-jgBteEKsYj2Mk/edit?usp=sharing)
