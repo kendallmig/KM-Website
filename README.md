@@ -1,4 +1,5 @@
 # PROJECT IDEAS
+### [My Website!](https://kendallmig.github.io/KendallMignerey/)
 
 ### 1. [OceanAI](https://github.com/kendallmig/KendallMignerey/tree/main/OceanAI)
 #### Revolutionizing ocean cleanup, one byte at a time.
