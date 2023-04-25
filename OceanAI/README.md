@@ -19,6 +19,7 @@ Using AlexNet and machine learning algorithms to detect and separate trash and l
 ## Want to know more?
 
 ### [Trash in our Oceans](https://docs.google.com/presentation/d/1XS1gkZQSxwYqoUmwtQliZiD8Y96zB-jgBteEKsYj2Mk/edit?usp=sharing)
+### [OceanAI Youtube Presentation] (https://www.youtube.com/watch?v=MyUFsExUBso)
 
 ## My Google Colab Notebook
 ### [OceanAI](https://colab.research.google.com/drive/1OakWw-K-aL4gSLpNPxOerZidaTk5Kakg)
